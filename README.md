@@ -8,8 +8,8 @@ A full-stack web dashboard to visualize global vaccine market data with filters,
 
 | Service | URL |
 |---------|-----|
-| **Frontend** | [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app) |
-| **Backend API** | [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com) |
+| **Frontend** | [[https://your-frontend-url.vercel.app](https://coherent-assignment.vercel.app)] |
+| **Backend API** | [https://coherent-assignment.onrender.com](https://coherent-assignment.onrender.com) |
 
 > Update the URLs above after deployment
 
