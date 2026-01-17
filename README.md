@@ -240,12 +240,6 @@ App runs on http://localhost:3000
 - [x] Sorting
 - [x] GenAI Insights
 
-### Deployment & Documentation
-- [ ] Frontend deployed (Vercel/Netlify)
-- [ ] Backend deployed (Render/Railway)
-- [x] README with setup instructions
-- [ ] Deployed URLs added
-- [ ] Screenshots added
 
 Developed by -
    Shubham Sharma❤️
