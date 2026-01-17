@@ -206,22 +206,6 @@ App runs on http://localhost:3000
 3. Add Environment Variable:
    - `VITE_API_URL` = `https://your-backend-url.onrender.com/api`
 
-## Screenshots
-
-### Dashboard - Light Mode
-*Main dashboard showing KPI cards, AI insights, and interactive charts*
-
-### Dashboard - Dark Mode
-*Same dashboard with dark theme enabled*
-
-### Filter Panel
-*Sidebar with region, brand, year, and vaccine type filters*
-
-### AI Insights
-*Smart market analysis panel with 5 different insight types*
-
-> Add actual screenshots here before submission
-
 ## Data Schema
 
 ```javascript
@@ -238,7 +222,7 @@ App runs on http://localhost:3000
 }
 ```
 
-## 📋 Assignment Checklist
+##  Assignment Checklist
 
 ### Core Requirements
 - [x] Backend APIs (`/api/vaccines`, `/api/summary`)
@@ -263,11 +247,10 @@ App runs on http://localhost:3000
 - [ ] Deployed URLs added
 - [ ] Screenshots added
 
-## 👨‍💻 Author
+Developed by -
+   Shubham Sharma❤️
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
 
-## 📄 License
 
-MIT
+
+
